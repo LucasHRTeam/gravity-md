@@ -7,13 +7,7 @@ async function startSock() {
     creds();
     messages();
     chats();
-    group_participants()
-    /* setTimeout(() => {
-        if (!sock) return;
-        sock.sendMessage('559284928452@s.whatsapp.net', {
-        text: `Estou ativo as ${Date.now()}`
-    });
-}, 3000) */
+    group_participants();
 };
 
 
