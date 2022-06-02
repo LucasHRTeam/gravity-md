@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "qrcode-terminal": "^0.12.0"
